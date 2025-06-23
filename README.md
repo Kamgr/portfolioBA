@@ -7,4 +7,5 @@ In my role as Marketing/Social Media Chair for Mavs Go Green, I organized sustai
 In this repo you can some of the works I have done to showcase my skillsets as a Business Analyst.
 
 Connect with me to explore collaborative opportunities and discussions on innovative solutions.
-LinkedIn <[https://www.linkedin.com/in/kabin-magar/]>
+
+LinkedIn <https://www.linkedin.com/in/kabin-magar/>
