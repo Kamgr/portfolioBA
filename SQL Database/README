@@ -1,9 +1,7 @@
-# ☕ RTD Beverage Inventory & Sales System  
-*By Kabin Magar*
+# RTD Beverage Inventory & Sales System  
+By Kabin Magar
 
 A SQL-based inventory and sales tracking system designed for cafés selling ready-to-drink (RTD) beverages. This project automates stock management, tracks vendor purchases, and calculates sales profit—giving decision-makers real-time insight into product performance.
-
----
 
 ##  Why This Project?
 
@@ -13,8 +11,6 @@ As a Business Analyst, I built this project to solve real-world problems:
 - **What’s the profit on each drink?**
 - **How can operations be automated to reduce manual tracking?**
 
----
-
 ##  Features
 
 -  **Inventory Tracking** – Real-time updates via SQL triggers  
@@ -23,15 +19,11 @@ As a Business Analyst, I built this project to solve real-world problems:
 -  **Time-Based Reporting** – Sales and purchases by timestamp  
 -  **Automation** – Self-updating inventory after each sale or purchase
 
----
-
 ##  Tech Stack
 
 - **Database**: SQLite  
 - **Language**: SQL  
 - **Business Logic**: Triggers, Relationships, Normalized Schema
-
----
 
 ##  Business Analyst Value
 
@@ -41,7 +33,5 @@ This project demonstrates my ability to:
 - Automate workflows with minimal tech overhead  
 - Deliver insights through clean, actionable queries
 
----
-
-🎥 **[Project Walkthrough](https://youtu.be/Z99zCgGck3U)**  
-📩 Let’s connect on how this can power your inventory operations or BI dashboards!
+##  [Project Walkthrough] (https://youtu.be/Z99zCgGck3U) 
+Let’s connect on how this can power your inventory operations or BI dashboards!
