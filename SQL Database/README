@@ -5,7 +5,7 @@ A SQL-based inventory and sales tracking system designed for cafés selling read
 
 ---
 
-## 🔍 Why This Project?
+##  Why This Project?
 
 As a Business Analyst, I built this project to solve real-world problems:
 - **What drinks are low in stock?**
@@ -15,17 +15,17 @@ As a Business Analyst, I built this project to solve real-world problems:
 
 ---
 
-## 🧠 Features
+##  Features
 
-- 📦 **Inventory Tracking** – Real-time updates via SQL triggers  
-- 💸 **Profit Analysis** – Sales vs. cost by product or date range  
-- 🤝 **Vendor Management** – Contact & performance tracking  
-- ⏱ **Time-Based Reporting** – Sales and purchases by timestamp  
-- ⚙️ **Automation** – Self-updating inventory after each sale or purchase
+-  **Inventory Tracking** – Real-time updates via SQL triggers  
+-  **Profit Analysis** – Sales vs. cost by product or date range  
+-  **Vendor Management** – Contact & performance tracking  
+-  **Time-Based Reporting** – Sales and purchases by timestamp  
+-  **Automation** – Self-updating inventory after each sale or purchase
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Database**: SQLite  
 - **Language**: SQL  
@@ -33,7 +33,7 @@ As a Business Analyst, I built this project to solve real-world problems:
 
 ---
 
-## 💼 Business Analyst Value
+##  Business Analyst Value
 
 This project demonstrates my ability to:
 - Design scalable systems from real business needs  
