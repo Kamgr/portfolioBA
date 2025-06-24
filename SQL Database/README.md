@@ -1,3 +1,4 @@
+![ER Diagram](diagram.jpg)
 # RTD Beverage Inventory & Sales System  
 By Kabin Magar
 
