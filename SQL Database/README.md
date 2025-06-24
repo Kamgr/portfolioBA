@@ -35,4 +35,3 @@ This project demonstrates my ability to:
 - Deliver insights through clean, actionable queries
 
 ##  [Project Walkthrough] (https://youtu.be/Z99zCgGck3U) 
-Let’s connect on how this can power your inventory operations or BI dashboards!
