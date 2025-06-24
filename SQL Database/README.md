@@ -1,4 +1,4 @@
-![ER Diagram](diagram.jpg)
+![cafe](.jpg)
 # RTD Beverage Inventory & Sales System  
 By Kabin Magar
 
