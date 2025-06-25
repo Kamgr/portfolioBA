@@ -1,5 +1,5 @@
-![cafe](cafe.JPG)
-# RTD Beverage Inventory & Sales System  
+# ![cafe](cafe.PNG)
+
 By Kabin Magar
 
 A SQL-based inventory and sales tracking system designed for cafés selling ready-to-drink (RTD) beverages. This project automates stock management, tracks vendor purchases, and calculates sales profit—giving decision-makers real-time insight into product performance.
