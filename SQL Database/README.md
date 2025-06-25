@@ -1,4 +1,4 @@
-![cafe](.jpg)
+![cafe](cafe.jpg)
 # RTD Beverage Inventory & Sales System  
 By Kabin Magar
 
