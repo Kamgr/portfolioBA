@@ -1,4 +1,4 @@
-![cafe](cover.PNG)
+![cafe](cafe.jpg)
 
 By Kabin Magar
 
