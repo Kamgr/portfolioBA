@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides a comprehensive overview of business performance across key areas such as Sales, Profit, Orders, Shipping Time, and Returns. It is **interactive**, allowing users to filter and explore data by **year, region, product category, or other dimensions**. The dashboard is designed to showcase **data visualization, analytical insights, and dashboard design skills**.
 
-![Dashboard](Sales%20and%20Profit%20Dashboard.png)
+![Dashboard](dashboard.jog)
 
 ---
 
