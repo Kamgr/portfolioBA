@@ -55,7 +55,6 @@ This dataset provides a realistic view of e-commerce operations and customer pur
 ## Tools & Technologies
 - **Microsoft Power BI** (Data visualization & dashboard creation)  
 - **Excel / CSV Dataset** (Data source)  
-- **DAX** (Data Analysis Expressions for calculated measures)  
 - **Power Query** (Data transformation and modeling)  
 
 
