@@ -1,0 +1,35 @@
+# Business Performance Overview — Portfolio
+
+
+This repository showcases a Power BI dashboard: **Business Performance Overview** — Sales, Profit, Shipping, and Product Trends.
+
+
+## What you’ll find here
+- `index.html` — A portfolio landing page with an embedded screenshot and (optional) embedded Power BI report.
+- `assets/screenshot.png` — Screenshot of the dashboard (replace with your high-resolution export).
+- `pbix/` — (Optional) Add the `.pbix` file for download.
+
+
+## How to publish this portfolio
+1. Add your dashboard screenshot to `assets/screenshot.png`.
+2. (Optional) Upload your `.pbix` to `pbix/`.
+3. If you want the live interactive report embedded, publish the report to Power BI Service and get an embed link (see instructions below).
+4. Commit and push the repo to GitHub.
+5. Enable **GitHub Pages** in repository Settings → Pages → Deploy from `main` branch → `/ (root)`.
+
+
+## Embedding Power BI (two options)
+
+
+**Option A — Publish to web (public):**
+1. In Power BI Service, open the report → File → Publish to web → Create embed code.
+2. Copy the `iframe` snippet and paste into `index.html` where indicated.
+
+
+**Option B — Secure embed (recommended for private/org data):**
+1. Use Power BI Service secure embedding, or set up an Azure AD-backed app to serve the report securely.
+2. This requires app registration and token handling; link to your organization docs for details.
+
+
+
+
