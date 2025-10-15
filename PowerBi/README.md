@@ -2,7 +2,10 @@
 
 This Power BI dashboard provides a **comprehensive overview of business performance** across key areas such as **Sales, Profit, Orders, Shipping Time, and Returns**.  
 It was designed to showcase data visualization, analytical insights, and dashboard design skills.
-## 🧾 Data Source
+
+---
+
+##  Data Source
 
 - The dataset is taken from **Tableau’s Sample Superstore**, (https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) a fictional retail dataset modeled after real-world retailers such as **Walmart** or **Target**.  
 - It contains sales transactions focused on **online orders**, including:
@@ -15,6 +18,8 @@ It was designed to showcase data visualization, analytical insights, and dashboa
   
 
 This dataset provides a realistic view of e-commerce operations and customer purchasing behavior, making it ideal for demonstrating analytical and visualization skills.
+
+---
 
 ## Dashboard Highlights
 
