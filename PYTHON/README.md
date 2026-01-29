@@ -1,29 +1,32 @@
-"""
-==========================================================
-                 Financial Analysis Toolkit
-==========================================================
+# Financial Analysis Toolkit — Python
 
-This Python-based toolkit helps evaluate a company's financial health
-through interactive calculations and interpretations of key metrics
-across Liquidity, Efficiency, Profitability, and Solvency.
+This Python toolkit provides an **interactive overview of a company's financial performance** across key areas: **Liquidity, Efficiency, Profitability, and Solvency**. Users can input financial statement data and receive **ratios, metrics, and interpretive insights** in real-time.  
 
-Key Features:
-- Liquidity Ratios: Current, Quick, Cash, and OCF ratios
-- Efficiency Metrics: Accounts Receivable, Inventory, and PPE Turnover
-- Profitability Analysis: ROE, ROA, Profit Margins, Gross Margin, and more
-- Solvency Checks: Debt-to-Equity, Debt Ratio, Equity Ratio, Times Interest Earned (TIE)
+The project demonstrates **financial analysis, Python programming, and data-driven decision-making skills**.
 
-Designed for students, analysts, and finance professionals to:
-- Learn financial ratio analysis
-- Evaluate company performance
-- Gain insights through clear interpretations
+---
 
-Usage Example:
->>> from financial_analysis import liquidity, efficiency, profitability, solvency
->>> liquidity()
->>> efficiency()
->>> profitability()
->>> solvency()
+## Features
 
-==========================================================
-"""
+### Liquidity Analysis
+- **Current Ratio (CR)**, **Quick Ratio (QR)**, **Cash Ratio**, **Working Capital**, **Operating Cash Flow (OCF)**  
+- Evaluates the company’s ability to meet **short-term obligations**  
+
+### Efficiency Analysis
+- **Accounts Receivable Turnover (ART)**, **Days Sales Outstanding (DSO)**  
+- **Inventory Turnover (INVT)**, **Days Inventory Outstanding (DIO)**  
+- **PPE Turnover (PPET)**  
+- Measures how efficiently a company **utilizes its assets**
+
+### Profitability Analysis
+- **Return on Equity (ROE)**, **Return on Assets (ROA)**  
+- **Profit Margin (PM)**, **Gross Profit Margin (GPM)**, **Operating Margin**  
+- **Expense-to-Sales (ETS)**, **Return on Net Operating Assets (RNOA)**  
+- Tracks a company’s **ability to generate profit**
+
+### Solvency Analysis
+- **Debt-to-Equity (D/E)**, **Debt Ratio**, **Equity Ratio**, **Times Interest Earned (TIE)**  
+- Assesses **long-term financial stability and risk**
+
+
+
