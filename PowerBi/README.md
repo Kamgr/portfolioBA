@@ -23,5 +23,3 @@ Retail managers need insights into:
 
 ![Dashboard](dashboard.jpg)
 
-- `.pbix` file
-- Dataset
