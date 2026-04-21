@@ -20,8 +20,8 @@ Retail managers need insights into:
 - DAX
 
 ## 📷 Dashboard Preview
-(Add screenshots here)
 
-## 📁 Files
+![Dashboard](dashboard.jpg)
+
 - `.pbix` file
 - Dataset
